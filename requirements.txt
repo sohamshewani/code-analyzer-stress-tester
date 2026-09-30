@@ -1,0 +1,6 @@
+click
+rich
+astroid
+sqlalchemy
+aiohttp
+pytest
